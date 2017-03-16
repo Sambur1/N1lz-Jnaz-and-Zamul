@@ -6,4 +6,4 @@
 * Samuel 
 
 ## Sida
-⋅⋅* http://blabandetumea.se
+* http://blabandetumea.se
