@@ -1,9 +1,9 @@
 # N1lz-Jnaz-and-Zamul
 
 ## Grupp 
-⋅⋅* Nils 
-⋅⋅* Jonas 
-⋅⋅* Samuel 
+* Nils 
+* Jonas 
+* Samuel 
 
 ## Sida
 ⋅⋅* http://blabandetumea.se
