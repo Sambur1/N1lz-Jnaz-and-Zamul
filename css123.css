@@ -1,0 +1,34 @@
+#navlogo {
+	height: 120px;
+	width: 160px;
+	margin-left: 50px;
+}
+
+#fixthis {
+	margin-left: -200px;
+}
+
+#headersize{
+	height: 140px;
+	margin-top: 10px;
+}
+
+#godsavethequeen{
+	margin-left: -400px;
+	
+}
+
+.dankr{
+	background: blue;
+	height: 1250px;
+}
+
+a{
+	text-decoration: none !important; 
+
+}
+
+p{
+
+font-size: 50px;
+}
