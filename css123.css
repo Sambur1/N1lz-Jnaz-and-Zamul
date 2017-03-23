@@ -4,31 +4,26 @@
 	margin-left: 50px;
 }
 
-#fixthis {
-	margin-left: -200px;
-}
-
 #headersize{
 	height: 140px;
 	margin-top: 10px;
 }
 
-#godsavethequeen{
-	margin-left: -400px;
-	
+.navstyle{
+	background-color: black;
 }
 
 .dankr{
-	background: blue;
 	height: 1250px;
+	padding-top: 150px;
+	background: blue;
 }
 
-a{
+.navbar-link{
 	text-decoration: none !important; 
+	font-size: 50px;
+	margin-right: 200px;
 
 }
 
-p{
 
-font-size: 50px;
-}
