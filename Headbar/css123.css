@@ -1,0 +1,83 @@
+#navlogo {
+	height: 107px;
+	width: 590,6px;
+	margin-left: 50px;
+}
+
+#headersize{
+	height: 140px;
+	margin-top: 10px;
+}
+
+.navstyle{
+	background-color: black;
+}
+
+.dankr{
+	height: fixed;
+	padding-top: 150px;
+	background: white;
+}
+
+.navbar-link{
+	text-decoration: none !important; 
+	font-size: 50px;
+	margin-right: 200px;
+
+
+}
+
+#main_nav {
+overflow: hidden;
+margin: 0 auto;
+float: right;
+display: inline-block;
+}
+
+#site_header #branding {
+text-align: center;
+padding: 3px 0 20px;
+display: inline-block;   
+}
+.rotate90 {
+	height: 150px;
+	width: 150px;
+	-webkit-transform: rotate(15deg);
+    -moz-transform: rotate(15deg);
+    -o-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    transform: rotate(15deg);
+    margin-top: -30px;
+    margin-left: 7px;
+
+}
+.navbar-header {
+	height: 80px;
+	border-bottom: 2px solid #0091fe
+
+
+}
+.active {
+        line-height: 50px;
+        font-size: 1.4em;
+        margin-left: 1120px;
+        margin-top: -110px;
+    }
+.active2 {
+        line-height: 50px;
+        font-size: 1.4em;
+        margin-left: 1200px;
+        margin-top: -110px;
+}
+.active3 {
+        line-height: 50px;
+        font-size: 1.4em;
+        margin-left: 1295px;
+        margin-top: -110px;
+}
+.active4 {
+        line-height: 50px;
+        font-size: 1.4em;
+        margin-left: 1370px;
+        margin-top: -110px;
+}
